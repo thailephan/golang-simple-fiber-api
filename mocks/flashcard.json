@@ -1,0 +1,481 @@
+[{
+  "id": "62412414fc13ae0af9000078",
+  "word": "diam nam tristique tortor",
+  "meanings": [
+    {
+      "type": "hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis",
+      "value": "tortor sollicitudin mi sit amet lobortis"
+    },
+    {
+      "type": "justo maecenas rhoncus aliquam lacus morbi quis tortor",
+      "value": "quis odio consequat varius integer ac leo pellentesque ultrices mattis"
+    },
+    {
+      "type": "interdum eu tincidunt in leo maecenas pulvinar lobortis",
+      "value": "sed lacus morbi sem mauris"
+    }
+  ],
+  "createdAt": "2021-05-12T23:25:22Z",
+  "updatedAt": "2021-10-11T04:16:52Z"
+}, {
+  "id": "62412414fc13ae0af9000079",
+  "word": "nulla quisque arcu libero rutrum ac",
+  "meanings": [
+    {
+      "type": "id turpis integer aliquet massa",
+      "value": "rutrum nulla tellus in sagittis dui vel nisl duis"
+    },
+    {
+      "type": "id luctus nec molestie sed justo pellentesque viverra pede ac",
+      "value": "quisque id justo sit amet sapien dignissim vestibulum vestibulum ante"
+    },
+    {
+      "type": "tortor id nulla ultrices aliquet",
+      "value": "eget elit sodales scelerisque mauris sit"
+    },
+    {
+      "type": "phasellus id sapien in sapien iaculis",
+      "value": "mattis nibh ligula nec sem duis"
+    },
+    {
+      "type": "a pede posuere nonummy integer",
+      "value": "in quis justo maecenas rhoncus aliquam lacus morbi quis tortor"
+    }
+  ],
+  "createdAt": "2021-06-16T20:09:28Z",
+  "updatedAt": "2021-11-05T05:32:30Z"
+}, {
+  "id": "62412414fc13ae0af900007a",
+  "word": "a odio in hac habitasse platea",
+  "meanings": [
+    {
+      "type": "id sapien in sapien iaculis congue vivamus metus",
+      "value": "morbi non lectus aliquam sit amet"
+    },
+    {
+      "type": "auctor sed tristique in tempus sit amet",
+      "value": "faucibus orci luctus et ultrices posuere cubilia curae duis faucibus"
+    },
+    {
+      "type": "molestie sed justo pellentesque viverra pede ac diam cras",
+      "value": "sed augue aliquam erat volutpat in"
+    },
+    {
+      "type": "integer non velit donec diam neque vestibulum eget vulputate ut",
+      "value": "justo aliquam quis turpis eget elit sodales scelerisque mauris sit"
+    }
+  ],
+  "createdAt": "2021-05-03T03:10:56Z",
+  "updatedAt": "2021-09-29T16:49:08Z"
+}, {
+  "id": "62412414fc13ae0af900007b",
+  "word": "venenatis tristique fusce congue diam",
+  "meanings": [
+    {
+      "type": "ridiculus mus etiam vel augue vestibulum rutrum rutrum",
+      "value": "justo in blandit ultrices enim lorem"
+    },
+    {
+      "type": "lorem vitae mattis nibh ligula",
+      "value": "orci luctus et ultrices posuere cubilia curae donec"
+    },
+    {
+      "type": "consequat morbi a ipsum integer",
+      "value": "lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem"
+    },
+    {
+      "type": "suspendisse potenti cras in purus eu",
+      "value": "duis ac nibh fusce lacus purus aliquet at feugiat"
+    },
+    {
+      "type": "nulla quisque arcu libero rutrum ac lobortis vel",
+      "value": "tortor quis turpis sed ante"
+    }
+  ],
+  "createdAt": "2021-07-07T15:07:38Z",
+  "updatedAt": "2021-07-30T22:44:12Z"
+}, {
+  "id": "62412414fc13ae0af900007c",
+  "word": "primis in faucibus",
+  "meanings": [
+    {
+      "type": "eu tincidunt in leo maecenas pulvinar lobortis est",
+      "value": "sapien quis libero nullam sit amet turpis elementum ligula"
+    },
+    {
+      "type": "sapien cum sociis natoque penatibus et magnis dis",
+      "value": "vivamus tortor duis mattis egestas"
+    },
+    {
+      "type": "in blandit ultrices enim lorem ipsum dolor sit amet",
+      "value": "et magnis dis parturient montes"
+    },
+    {
+      "type": "gravida nisi at nibh in hac habitasse platea dictumst aliquam",
+      "value": "sit amet erat nulla tempus vivamus in"
+    },
+    {
+      "type": "eleifend donec ut dolor morbi vel",
+      "value": "vitae mattis nibh ligula nec sem duis aliquam convallis"
+    }
+  ],
+  "createdAt": "2021-06-25T17:05:27Z",
+  "updatedAt": "2022-02-23T10:26:38Z"
+}, {
+  "id": "62412414fc13ae0af900007d",
+  "word": "elit sodales scelerisque",
+  "meanings": [
+    {
+      "type": "aliquam non mauris morbi non lectus aliquam",
+      "value": "curabitur gravida nisi at nibh"
+    },
+    {
+      "type": "rutrum rutrum neque aenean auctor",
+      "value": "morbi odio odio elementum eu interdum"
+    },
+    {
+      "type": "nibh in quis justo maecenas rhoncus aliquam lacus morbi",
+      "value": "donec posuere metus vitae ipsum aliquam non mauris morbi"
+    }
+  ],
+  "createdAt": "2021-09-08T14:43:37Z",
+  "updatedAt": "2021-07-24T00:59:12Z"
+}, {
+  "id": "62412414fc13ae0af900007e",
+  "word": "praesent blandit lacinia erat vestibulum",
+  "meanings": [
+    {
+      "type": "maecenas pulvinar lobortis est phasellus sit amet",
+      "value": "vivamus vel nulla eget eros elementum pellentesque"
+    },
+    {
+      "type": "vestibulum ante ipsum primis in",
+      "value": "quam suspendisse potenti nullam porttitor lacus at turpis donec posuere"
+    },
+    {
+      "type": "nulla ut erat id mauris vulputate elementum nullam varius nulla",
+      "value": "habitasse platea dictumst maecenas ut massa"
+    },
+    {
+      "type": "sapien quis libero nullam sit amet",
+      "value": "mauris eget massa tempor convallis"
+    },
+    {
+      "type": "nibh ligula nec sem duis aliquam convallis nunc proin",
+      "value": "cras pellentesque volutpat dui maecenas tristique"
+    }
+  ],
+  "createdAt": "2021-10-18T11:22:14Z",
+  "updatedAt": "2021-11-28T06:02:20Z"
+}, {
+  "id": "62412414fc13ae0af900007f",
+  "word": "vel ipsum praesent blandit",
+  "meanings": [
+    {
+      "type": "a libero nam dui proin",
+      "value": "metus sapien ut nunc vestibulum ante ipsum primis in faucibus"
+    },
+    {
+      "type": "potenti in eleifend quam a",
+      "value": "morbi sem mauris laoreet ut"
+    },
+    {
+      "type": "eget eros elementum pellentesque quisque porta volutpat",
+      "value": "quis augue luctus tincidunt nulla mollis molestie lorem quisque"
+    }
+  ],
+  "createdAt": "2021-10-28T09:41:43Z",
+  "updatedAt": "2022-01-12T05:22:44Z"
+}, {
+  "id": "62412414fc13ae0af9000080",
+  "word": "dapibus dolor vel est",
+  "meanings": [
+    {
+      "type": "adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque",
+      "value": "duis at velit eu est congue elementum in hac"
+    },
+    {
+      "type": "porttitor lacus at turpis donec posuere",
+      "value": "eget tincidunt eget tempus vel pede morbi"
+    },
+    {
+      "type": "accumsan odio curabitur convallis duis consequat dui",
+      "value": "magna ac consequat metus sapien ut nunc vestibulum ante"
+    },
+    {
+      "type": "sed tincidunt eu felis fusce posuere",
+      "value": "at velit eu est congue"
+    },
+    {
+      "type": "eros vestibulum ac est lacinia",
+      "value": "fusce congue diam id ornare imperdiet"
+    }
+  ],
+  "createdAt": "2021-09-24T11:27:37Z",
+  "updatedAt": "2021-11-19T23:45:22Z"
+}, {
+  "id": "62412414fc13ae0af9000081",
+  "word": "pretium quis lectus",
+  "meanings": [
+    {
+      "type": "mauris sit amet eros suspendisse accumsan tortor quis turpis sed",
+      "value": "odio porttitor id consequat in consequat ut nulla sed"
+    },
+    {
+      "type": "tempus vivamus in felis eu sapien cursus vestibulum proin eu",
+      "value": "aliquam quis turpis eget elit"
+    },
+    {
+      "type": "sed tristique in tempus sit",
+      "value": "eu tincidunt in leo maecenas"
+    },
+    {
+      "type": "vulputate nonummy maecenas tincidunt lacus at velit vivamus vel",
+      "value": "lacinia nisi venenatis tristique fusce"
+    }
+  ],
+  "createdAt": "2021-12-07T15:38:07Z",
+  "updatedAt": "2021-09-03T01:50:22Z"
+}, {
+  "id": "62412414fc13ae0af9000082",
+  "word": "vestibulum rutrum rutrum neque aenean",
+  "meanings": [
+    {
+      "type": "vestibulum rutrum rutrum neque aenean",
+      "value": "morbi ut odio cras mi"
+    },
+    {
+      "type": "commodo vulputate justo in blandit ultrices enim",
+      "value": "nascetur ridiculus mus etiam vel"
+    },
+    {
+      "type": "duis bibendum felis sed interdum venenatis turpis",
+      "value": "porttitor lacus at turpis donec posuere metus vitae ipsum aliquam"
+    }
+  ],
+  "createdAt": "2021-10-05T07:52:33Z",
+  "updatedAt": "2021-04-29T10:28:45Z"
+}, {
+  "id": "62412414fc13ae0af9000083",
+  "word": "quam suspendisse potenti nullam porttitor lacus",
+  "meanings": [
+    {
+      "type": "nunc nisl duis bibendum felis sed interdum venenatis",
+      "value": "vivamus metus arcu adipiscing molestie hendrerit at vulputate"
+    },
+    {
+      "type": "nulla pede ullamcorper augue a suscipit nulla",
+      "value": "curae mauris viverra diam vitae quam suspendisse"
+    },
+    {
+      "type": "turpis donec posuere metus vitae ipsum",
+      "value": "mauris ullamcorper purus sit amet nulla quisque"
+    },
+    {
+      "type": "blandit nam nulla integer pede justo lacinia eget tincidunt eget",
+      "value": "donec ut dolor morbi vel lectus in quam fringilla rhoncus"
+    }
+  ],
+  "createdAt": "2022-03-30T18:13:59Z",
+  "updatedAt": "2022-02-23T14:13:40Z"
+}, {
+  "id": "62412414fc13ae0af9000084",
+  "word": "sit amet eleifend pede libero",
+  "meanings": [
+    {
+      "type": "congue etiam justo etiam pretium iaculis justo in",
+      "value": "rutrum rutrum neque aenean auctor gravida sem praesent id"
+    },
+    {
+      "type": "ante nulla justo aliquam quis turpis eget",
+      "value": "vel nisl duis ac nibh fusce lacus purus aliquet at"
+    },
+    {
+      "type": "interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus",
+      "value": "venenatis turpis enim blandit mi in porttitor pede justo eu"
+    },
+    {
+      "type": "vestibulum ante ipsum primis in faucibus orci",
+      "value": "turpis eget elit sodales scelerisque mauris sit amet eros"
+    },
+    {
+      "type": "diam erat fermentum justo nec condimentum neque sapien placerat",
+      "value": "interdum venenatis turpis enim blandit mi in porttitor"
+    }
+  ],
+  "createdAt": "2021-04-07T08:01:18Z",
+  "updatedAt": "2021-04-05T22:59:09Z"
+}, {
+  "id": "62412414fc13ae0af9000085",
+  "word": "nisl nunc rhoncus",
+  "meanings": [
+    {
+      "type": "consequat ut nulla sed accumsan felis ut",
+      "value": "justo eu massa donec dapibus duis at velit eu"
+    },
+    {
+      "type": "et magnis dis parturient montes nascetur ridiculus",
+      "value": "eu massa donec dapibus duis at velit eu"
+    },
+    {
+      "type": "placerat ante nulla justo aliquam quis turpis",
+      "value": "lacinia eget tincidunt eget tempus vel pede morbi porttitor"
+    },
+    {
+      "type": "non interdum in ante vestibulum ante ipsum primis",
+      "value": "at feugiat non pretium quis lectus suspendisse potenti"
+    },
+    {
+      "type": "id massa id nisl venenatis",
+      "value": "maecenas rhoncus aliquam lacus morbi"
+    }
+  ],
+  "createdAt": "2022-01-19T03:25:14Z",
+  "updatedAt": "2021-12-26T18:05:47Z"
+}, {
+  "id": "62412414fc13ae0af9000086",
+  "word": "et magnis dis",
+  "meanings": [
+    {
+      "type": "vestibulum sed magna at nunc commodo placerat praesent blandit",
+      "value": "pellentesque ultrices mattis odio donec"
+    },
+    {
+      "type": "et ultrices posuere cubilia curae mauris viverra diam vitae quam",
+      "value": "et magnis dis parturient montes nascetur ridiculus mus etiam"
+    },
+    {
+      "type": "orci luctus et ultrices posuere cubilia curae mauris viverra diam",
+      "value": "aliquam convallis nunc proin at turpis"
+    },
+    {
+      "type": "curae mauris viverra diam vitae",
+      "value": "mauris morbi non lectus aliquam sit amet diam in"
+    }
+  ],
+  "createdAt": "2021-09-04T11:54:59Z",
+  "updatedAt": "2021-10-13T18:15:20Z"
+}, {
+  "id": "62412414fc13ae0af9000087",
+  "word": "metus aenean fermentum",
+  "meanings": [
+    {
+      "type": "mauris enim leo rhoncus sed",
+      "value": "hac habitasse platea dictumst etiam faucibus cursus urna"
+    },
+    {
+      "type": "orci vehicula condimentum curabitur in libero ut",
+      "value": "donec diam neque vestibulum eget vulputate ut ultrices vel augue"
+    },
+    {
+      "type": "neque vestibulum eget vulputate ut ultrices vel",
+      "value": "eleifend quam a odio in hac habitasse platea"
+    },
+    {
+      "type": "semper est quam pharetra magna ac consequat metus sapien ut",
+      "value": "risus semper porta volutpat quam pede lobortis ligula sit"
+    }
+  ],
+  "createdAt": "2021-12-16T03:06:57Z",
+  "updatedAt": "2021-11-16T10:37:13Z"
+}, {
+  "id": "62412414fc13ae0af9000088",
+  "word": "eget semper rutrum nulla nunc purus",
+  "meanings": [
+    {
+      "type": "ipsum integer a nibh in",
+      "value": "quis orci nullam molestie nibh in lectus pellentesque at"
+    },
+    {
+      "type": "ultrices posuere cubilia curae donec pharetra magna",
+      "value": "erat id mauris vulputate elementum nullam"
+    },
+    {
+      "type": "ut erat curabitur gravida nisi",
+      "value": "platea dictumst aliquam augue quam sollicitudin"
+    },
+    {
+      "type": "interdum venenatis turpis enim blandit mi in porttitor pede justo",
+      "value": "semper interdum mauris ullamcorper purus"
+    },
+    {
+      "type": "mauris non ligula pellentesque ultrices",
+      "value": "nulla quisque arcu libero rutrum ac"
+    }
+  ],
+  "createdAt": "2021-11-05T19:53:52Z",
+  "updatedAt": "2021-09-05T00:53:50Z"
+}, {
+  "id": "62412414fc13ae0af9000089",
+  "word": "sed interdum venenatis",
+  "meanings": [
+    {
+      "type": "risus praesent lectus vestibulum quam sapien varius ut blandit",
+      "value": "quam suspendisse potenti nullam porttitor lacus at turpis"
+    },
+    {
+      "type": "auctor sed tristique in tempus sit amet sem fusce",
+      "value": "libero convallis eget eleifend luctus ultricies eu"
+    },
+    {
+      "type": "tortor quis turpis sed ante vivamus tortor duis mattis egestas",
+      "value": "nulla elit ac nulla sed vel enim sit"
+    },
+    {
+      "type": "dictumst maecenas ut massa quis augue luctus tincidunt",
+      "value": "eu mi nulla ac enim"
+    }
+  ],
+  "createdAt": "2022-03-24T00:33:37Z",
+  "updatedAt": "2022-02-13T22:11:28Z"
+}, {
+  "id": "62412414fc13ae0af900008a",
+  "word": "habitasse platea dictumst",
+  "meanings": [
+    {
+      "type": "justo in blandit ultrices enim lorem ipsum dolor",
+      "value": "vestibulum quam sapien varius ut"
+    },
+    {
+      "type": "diam id ornare imperdiet sapien urna pretium",
+      "value": "suspendisse accumsan tortor quis turpis sed"
+    },
+    {
+      "type": "non mi integer ac neque duis",
+      "value": "mauris viverra diam vitae quam suspendisse"
+    },
+    {
+      "type": "consequat nulla nisl nunc nisl",
+      "value": "id turpis integer aliquet massa id lobortis"
+    }
+  ],
+  "createdAt": "2021-10-07T12:01:01Z",
+  "updatedAt": "2021-11-01T03:54:31Z"
+}, {
+  "id": "62412414fc13ae0af900008b",
+  "word": "dis parturient montes nascetur ridiculus",
+  "meanings": [
+    {
+      "type": "sed justo pellentesque viverra pede ac diam cras",
+      "value": "donec odio justo sollicitudin ut suscipit a feugiat et"
+    },
+    {
+      "type": "cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus",
+      "value": "in porttitor pede justo eu massa donec"
+    },
+    {
+      "type": "posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis",
+      "value": "enim sit amet nunc viverra"
+    },
+    {
+      "type": "luctus et ultrices posuere cubilia curae nulla dapibus",
+      "value": "nulla mollis molestie lorem quisque ut erat curabitur gravida nisi"
+    },
+    {
+      "type": "nisi volutpat eleifend donec ut",
+      "value": "bibendum morbi non quam nec dui luctus rutrum nulla tellus"
+    }
+  ],
+  "createdAt": "2022-03-27T02:00:42Z",
+  "updatedAt": "2021-11-22T22:40:09Z"
+}]
